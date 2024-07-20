@@ -32,15 +32,16 @@ The features were selected based on their correlation with the target variable. 
 
 ### Before Feature Selection
 
-- **Accuracy**: 83.69%
-- **Precision**: 0.82
-- **F1-Score**: 0.82
-
-### After Feature Selection
 
 - **Accuracy**: 63.83%
 - **Precision**: 0.61
 - **F1-Score**: 0.62
+
+### After Feature Selection
+
+- **Accuracy**: 83.69%
+- **Precision**: 0.82
+- **F1-Score**: 0.82
 
 ## Conclusion
 
